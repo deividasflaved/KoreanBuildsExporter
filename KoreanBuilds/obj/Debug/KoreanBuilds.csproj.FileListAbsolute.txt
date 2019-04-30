@@ -1,0 +1,11 @@
+C:\Users\Deividas\source\repos\KoreanBuilds\KoreanBuilds\obj\Debug\KoreanBuilds.csprojAssemblyReference.cache
+C:\Users\Deividas\source\repos\KoreanBuilds\KoreanBuilds\obj\Debug\KoreanBuilds.csproj.CoreCompileInputs.cache
+C:\Users\Deividas\source\repos\KoreanBuilds\KoreanBuilds\bin\Debug\KoreanBuilds.exe.config
+C:\Users\Deividas\source\repos\KoreanBuilds\KoreanBuilds\bin\Debug\KoreanBuilds.exe
+C:\Users\Deividas\source\repos\KoreanBuilds\KoreanBuilds\bin\Debug\KoreanBuilds.pdb
+C:\Users\Deividas\source\repos\KoreanBuilds\KoreanBuilds\obj\Debug\KoreanBuilds.exe
+C:\Users\Deividas\source\repos\KoreanBuilds\KoreanBuilds\obj\Debug\KoreanBuilds.pdb
+C:\Users\Deividas\source\repos\KoreanBuilds\KoreanBuilds\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Deividas\source\repos\KoreanBuilds\KoreanBuilds\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Deividas\source\repos\KoreanBuilds\KoreanBuilds\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Deividas\source\repos\KoreanBuilds\KoreanBuilds\obj\Debug\KoreanBuilds.csproj.CopyComplete
